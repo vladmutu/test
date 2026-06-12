@@ -1,1 +1,1 @@
-datautils-helper==1.0.1
+datautils-helper==1.0.0
